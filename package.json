@@ -1,0 +1,30 @@
+{
+	"name": "underscore.normalize",
+	"version": "1.0.0",
+	"description": "Data normalization mixin for underscore.js.",
+	"homepage": "https://github.com/michael-lawrence/underscore.normalize/",
+	"contributors": [
+		"Michael Lawrence <mike@pandemicode.com> (http://pandemicode.com/)"
+	],
+	"keywords": [
+		"underscore",
+		"normalize"
+	],
+	"main": "./underscore.normalize",
+	"dependencies": {
+		"underscore" : "*"
+	},
+	"engines": {
+		"node": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/michael-lawrence/underscore.normalize.git"
+	},
+	"bugs": {
+		"url": "https://github.com/michael-lawrence/underscore.normalize/issues/"
+	},
+	"licenses" : [
+		{ "type" : "MIT" }
+	]
+}
